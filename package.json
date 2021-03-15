@@ -154,6 +154,6 @@
     ]
   },
   "devDependencies": {
-    "tsconfig-paths-webpack-plugin": "^3.3.0"
+    "tsconfig-paths-webpack-plugin": "^3.4.1"
   }
 }
